@@ -36,7 +36,7 @@
 
         <!-- Bouton de réservation -->
         <div class="text-center">
-            <button type="submit" class="px-6 py-3 bg-gray-300 border border-black rounded-lg hover:bg-Salmon orange-400 focus:outline-none">
+            <button type="submit" class="px-6 py-3 bg-gray-300 border border-black rounded-lg hover:bg-blue-400 focus:outline-none">
                 Réserver
             </button>
         </div>
